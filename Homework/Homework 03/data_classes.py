@@ -58,3 +58,5 @@ if __name__ == "__main__":
 
     # Save to JSON file
     student.save_to_json("student_data.json")
+
+    #Used ChatGPT for help
